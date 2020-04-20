@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/thedaviddias/basic-project-template#readme",
   "devDependencies": {
+    "eslint-config-thedaviddias": "0.0.2",
     "husky": "4.2.5",
     "pretty-quick": "2.0.1"
   },
